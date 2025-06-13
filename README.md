@@ -16,7 +16,7 @@
 
 ## 📌 Pinned Projects  
 
-![Ghost Recon Tools](https://github-readme-stats.vercel.app/api/pin/?username=HexaGhost-09&repo=Ghost-Recon-Tools&title_color=ff8800&icon_color=ff8800&hide_border=false)
+![Ghost Recon Tools](https://github-readme-stats.vercel.app/api/pin/?username=HexaGhost-09&repo=Ghost-Recon-Tools&title_color=ff8800&hide_border=false)
 
 - 🔐 [Ghost Recon Tools](https://github.com/HexaGhost-09/Ghost-Recon-Tools) – security tools collection  
 - 🌐 [Cyber Blog](https://github.com/HexaGhost-09/Cyber-Blog) – a blog with Next.js + Supabase  
